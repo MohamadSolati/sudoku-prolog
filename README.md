@@ -1,0 +1,2 @@
+# sudoku-prolog
+Sudoku game
